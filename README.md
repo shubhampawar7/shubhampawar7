@@ -10,7 +10,7 @@
 - ### Adept in working with REST APIs, integrating third-party libraries, and conducting through testing to ensure top-notch quality. 
 - ### Always keen to learn and explore new technologies, and contribute to open-source projects.
 - ### Dedicated to delivering clean, maintainable, and efficient code that adheres to best practices and coding standards.
-- 💬 Ask me about **Javascript ,React,Node.js,MongoDB**
+- 💬 Ask me about **Javascript ,React.js, Node.js, MongoDB**
 - 📫 How to reach me **pawarshubham1295@gmail.com**
 
 
