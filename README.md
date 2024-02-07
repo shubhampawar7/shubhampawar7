@@ -10,6 +10,9 @@
 - ### Adept in working with REST APIs, integrating third-party libraries, and conducting through testing to ensure top-notch quality. 
 - ### Always keen to learn and explore new technologies, and contribute to open-source projects.
 - ### Dedicated to delivering clean, maintainable, and efficient code that adheres to best practices and coding standards.
+- 💬 Ask me about **Javascript ,React,Node.js,MongoDB**
+- 📫 How to reach me **pawarshubham1295@gmail.com**
+
 
 ## 🔧 Languages & Tools
 <p align='left'>
@@ -23,6 +26,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongodb" width="40" height="40"/>
 </p>
 
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhampawar-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhampawar-/" height="30" width="40" /></a>
+</p>
 
 
 
