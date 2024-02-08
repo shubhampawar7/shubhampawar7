@@ -4,7 +4,7 @@
 
 
 # Hello, I'm Shubham Pawar !👋
-
+- 🙋‍♂️ All about me is at **[My Website](https://shubhamsportfoliosite.netlify.app/)**
 - ### Experienced React developer with a year of industry experience, proficient in creating dynamic and responsive user interfaces using React and Redux. 
 - ### Passionate about building efficient and reusable components, optimizing web applications for speed and scalability, and collaborating with cross-functional teams to deliver high-quality software solutions.
 - ### Adept in working with REST APIs, integrating third-party libraries, and conducting through testing to ensure top-notch quality. 
@@ -13,18 +13,24 @@
 - 💬 Ask me about **Javascript ,React.js, Node.js, MongoDB**
 - 📫 How to reach me **pawarshubham1295@gmail.com**
 
+## 🛠️ Technologies and Tools I use:
 
-## 🔧 Languages & Tools
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40" height="40"/>
-  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="node" width="40" height="40"/>
-  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongodb" width="40" height="40"/>
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+ <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
+
 
 ## Connect with me
 <p align="left">
